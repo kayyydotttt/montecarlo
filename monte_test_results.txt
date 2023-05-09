@@ -1,0 +1,54 @@
+test_change_weight (__main__.TestDie)
+checks to ensure that the change_weight method ... ok
+test_init (__main__.TestDie)
+checks to ensure that the initializer is creating a ... ok
+test_roll (__main__.TestDie)
+Tests to ensure rolls is returning a list of outcomes of "rolls" ... ok
+test_show (__main__.TestDie)
+tests the show method to ensure that it is returning a data frame ... ok
+test_game_init (__main__.TestGame)
+tests to ensure that the initializer function is creating a list ... ok
+test_play (__main__.TestGame)
+tests play method to ensure that it is creating a dataframe ... ok
+test_show (__main__.TestGame)
+tests to ensure that show is creating the proper length of a data frame and ... ok
+test__init__ (__main__.TestAnalyzer)
+Tests to make sure that the game is being called correctly and ... ok
+test_combo (__main__.TestAnalyzer)
+tests the combo method to ensure that the method can call ... ok
+test_face_counts_roll (__main__.TestAnalyzer)
+tests to make sure that face_counts_roll ... ok
+test_jackpot (__main__.TestAnalyzer)
+Tests to make sure that jackpot is returning an int ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 2.085s
+
+OK
+test_change_weight (__main__.TestDie)
+checks to ensure that the change_weight method ... ok
+test_init (__main__.TestDie)
+checks to ensure that the initializer is creating a ... ok
+test_roll (__main__.TestDie)
+Tests to ensure rolls is returning a list of outcomes of "rolls" ... ok
+test_show (__main__.TestDie)
+tests the show method to ensure that it is returning a data frame ... ok
+test_game_init (__main__.TestGame)
+tests to ensure that the initializer function is creating a list ... ok
+test_play (__main__.TestGame)
+tests play method to ensure that it is creating a dataframe ... ok
+test_show (__main__.TestGame)
+tests to ensure that show is creating the proper length of a data frame and ... ok
+test__init__ (__main__.TestAnalyzer)
+Tests to make sure that the game is being called correctly and ... ok
+test_combo (__main__.TestAnalyzer)
+tests the combo method to ensure that the method can call ... ok
+test_face_counts_roll (__main__.TestAnalyzer)
+tests to make sure that face_counts_roll ... ok
+test_jackpot (__main__.TestAnalyzer)
+Tests to make sure that jackpot is returning an int ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 2.140s
+
+OK
